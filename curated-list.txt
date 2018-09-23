@@ -1,0 +1,6 @@
+tidyverse
+docopt
+futile.logger
+devtools
+here
+usethis
