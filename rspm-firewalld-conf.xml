@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>RSPM</short>
+  <description>RStudio Package Manager is an package management service for the R language.</description>
+  <port protocol="tcp" port="4242"/>
+</service>
